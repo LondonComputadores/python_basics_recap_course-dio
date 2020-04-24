@@ -1,4 +1,4 @@
-# python_basics_recycling_course
+# python_basics_recap_course-dio
 
 #Full backend Python Development Recap Course by Digital Innovation One.
 
